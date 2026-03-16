@@ -37,4 +37,8 @@ Excel
 
 
 ## Connect with Me
-LinkedIn: https://www.linkedin.com/in/xhavide-zymberi/
+💼 LinkedIn: https://www.linkedin.com/in/xhavide-zymberi/  
+📧 Email: xhavide.zymberi@gmail.com
+
+
+
