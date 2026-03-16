@@ -35,13 +35,6 @@ SQL Server
 Tableau  
 Excel  
 
-## Portfolio Projects
-
-Global Freelance Earnings Analysis  
-Tableau dashboard analyzing freelance income patterns, regional differences, and income stability.
-
-SQL Data Cleaning Project  
-Data cleaning workflow demonstrating duplicate removal, missing value handling, and data transformation using SQL.
 
 ## Connect with Me
 LinkedIn: https://www.linkedin.com/in/xhavide-zymberi/
