@@ -21,6 +21,8 @@ Aspiring Data Analyst with a background in marketing and strong interest in data
 
 I enjoy working with data to uncover patterns, build dashboards, and support data-driven decision-making.
 
+----
+
 ## Skills
 
 SQL  
@@ -35,6 +37,7 @@ SQL Server
 Tableau  
 Excel  
 
+------
 
 ## Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/xhavide-zymberi/  
