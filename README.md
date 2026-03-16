@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Xhavide Zymberi
+# Hi there 👋, I'm Xhavide Zymberi
 
 Aspiring Data Analyst with a background in marketing and strong interest in data analytics, data visualization, and business insights.
 
