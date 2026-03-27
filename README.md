@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Xhavide Zymberi Ebibi
 
-Aspiring Data Analyst with a background in marketing and strong interest in data analytics, data visualization, and business insights.
+Data Analyst Enthusiast with a background in marketing and strong interest in data analytics, data visualization, and business insights.
 
 I enjoy working with data to uncover patterns, build dashboards, and support data-driven decision-making.
 
