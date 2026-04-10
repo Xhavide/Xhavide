@@ -28,7 +28,7 @@ I enjoy working with data to uncover patterns, build dashboards, and support dat
 - 📈 Marketing KPI Analysis (SQL)
 - 📊 Sales Performance Analysis|SQL & Tableau Dashboard
   
-  
+------------  
 
 ## 🛠️ Tools
 SQL • Tableau • Excel • Data Visualization
@@ -36,7 +36,7 @@ SQL • Tableau • Excel • Data Visualization
 ------
 
 ## Connect with Me
-💼 LinkedIn: https://www.linkedin.com/in/xhavide-zymberi/  
+💼 LinkedIn [Profile](https://www.linkedin.com/in/xhavide-zymberi/)  
 📧 Email: xhavide.zymberi@gmail.com
 
 
