@@ -23,19 +23,13 @@ I enjoy working with data to uncover patterns, build dashboards, and support dat
 
 ----
 
-## Skills
+## 🔥 Projects
+- 📊 Data Job Market Analysis Dashboard (SQL + Tableau)
+- 📈 Marketing KPI Analysis (SQL)
+- 🧹 Data Cleaning in SQL
 
-SQL  
-Tableau  
-Data Visualization  
-Data Cleaning  
-Exploratory Data Analysis  
-
-## Tools
-
-SQL Server  
-Tableau  
-Excel  
+## 🛠️ Tools
+SQL • Tableau • Excel • Data Visualization
 
 ------
 
