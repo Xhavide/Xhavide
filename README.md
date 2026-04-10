@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Xhavide Zymberi Ebibi
+# Hi, I'm Xhavide 👋
 
 Data Analyst skilled in SQL & Tableau with a background in marketing and strong interest in data analytics, data visualization, and business insights.
 
