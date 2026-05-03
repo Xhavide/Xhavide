@@ -28,7 +28,7 @@ I enjoy working with data to uncover patterns, build dashboards, and support dat
 - 📈 Marketing KPI Analysis (SQL)
 - 📊 Sales Performance Analysis|SQL & Tableau Dashboard
 
-  Explore the full projects on ([GitHub Repositories]())
+  Explore the full projects on [GitHub Repositories](https://github.com/Xhavide?tab=repositories)
   
 ------------  
 
