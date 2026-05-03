@@ -27,6 +27,8 @@ I enjoy working with data to uncover patterns, build dashboards, and support dat
 - 📊 Job Market Analysis – End-to-End Project
 - 📈 Marketing KPI Analysis (SQL)
 - 📊 Sales Performance Analysis|SQL & Tableau Dashboard
+
+  Explore the full projects on ([GitHub Repositories]())
   
 ------------  
 
